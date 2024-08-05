@@ -19,7 +19,7 @@ st.set_page_config(page_title="PaperFinder", page_icon="📄", layout="wide")
 st.markdown("# PaperFinder")
 st.sidebar.header("PaperFinder")
 st.write(
-    """Search, find and interract with papers from the arXiv repository."""
+    """Search, find and interact with papers from the arXiv repository."""
 )
 
 if 'search_results' not in st.session_state:

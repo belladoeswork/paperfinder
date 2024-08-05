@@ -41,7 +41,7 @@ OPENAI_API_KEY="your_key"
 ```
 4. Run the Streamlit app
 ```bash
-streamlit run app.py
+streamlit run chat_app.py
 
 ```
 
