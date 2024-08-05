@@ -3,7 +3,7 @@
 PaperFinder is an application that allows you to search, find and interact with scientific papers from the arXiv repository. With a user-friendly interface, you can easily browse search results, view detailed information about each paper, generate summaries, and engage in discussions about the paper.
 
 
-# Features
+## Features
 
 - Search for Papers: Enter a query to retrieve papers from the arXiv repository.
 - View Paper Details: Click on a paper to see detailed information, including authors, publication date, abstract, citations, and PDF link.
@@ -12,7 +12,7 @@ PaperFinder is an application that allows you to search, find and interact with 
 - Read PDF: View the PDF of the paper directly within the app.
 - Chat About the Paper: Ask questions and get responses based on the paper content.
 
-# Demo
+## Demo
 
 
 ## Installation
