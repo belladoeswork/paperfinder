@@ -14,6 +14,10 @@ PaperFinder is an application that allows you to search, find and interact with 
 
 ## Demo
 
+https://github.com/user-attachments/assets/5e0669b3-6b1d-413a-ad16-bb5aa7cabbe3
+
+https://github.com/user-attachments/assets/5e71898d-5f7a-4f01-93c0-451d76409326
+
 
 ## Installation
 
