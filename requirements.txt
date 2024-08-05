@@ -1,0 +1,14 @@
+langchain==0.1.15
+langchain-astradb>=0.0.1
+langchain-openai==0.0.6
+datasets==2.17.1
+pypdf==4.0.2
+python-dotenv==1.0.1
+langsmith>=0.1.0,<0.2.0
+PyPDF2==3.0.1
+openai ==1.35.7
+cassio == 0.1.8
+datasets ==2.17.1
+tiktoken==0.7.0
+streamlit==1.37.0
+streamlit-chat==0.1.1
